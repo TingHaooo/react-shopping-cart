@@ -12,11 +12,11 @@ It uses different technology from the original example project,  adding more det
 
 ### using
 * React
- * Redux - state management
- * Redux-thunk - to get api in flow
+  * Redux - state management
+  * Redux-thunk - to get api in flow
 * Nodejs
- * Express - build products API
+  * Express - build products API
 * Axios - for promise HTTP requests
 * CSS
- * BEM methodology
- * SASS
+  * BEM methodology
+  * SASS
