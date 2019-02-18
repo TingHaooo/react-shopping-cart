@@ -1,8 +1,8 @@
-# react-shopping-cart [Live_Demo](http://www.tinghaochang.com/projects/shopping-cart)
+# react-shopping-cart
 A shopping cart recreate from react example projects [react-example-projects](https://reactjs.org/community/examples.html)
 It uses different technology from the original example project,  adding more detailed information in the shopping cart and changing the way to fetch API.
 
-## Basic Overview
+## Basic Overview [Live_Demo](http://www.tinghaochang.com/projects/shopping-cart)
 
 ### Features
 * Add and remove products from the floating cart
